@@ -24,6 +24,8 @@ I build **end-to-end data science projects** — from raw messy data to business
 | [🌍 Ecommerce Regional Analysis](https://github.com/Adeel-lab/ecommerce-regional-analysis) | Global vs regional market breakdown, UK bias correction | Seaborn, WordCloud |
 | [🏭 Bearing Fault Diagnosis](https://github.com/Adeel-lab/CWRU-Data) | CWRU dataset — CNN models for predictive maintenance | PyTorch, NumPy |
 | [📈 Sales Price Prediction](https://github.com/Adeel-lab/predicting-sales-prices) | Retail chain revenue forecasting with ML | Scikit-learn |
+| [📄 Intelligent Business Document Analyzer](https://github.com/Adeel-lab/Intelligent-Business-Document-Analyzer) | Upload any business PDF and query it in natural language — RAG powered by LLaMA 3.3-70B • [🚀 Live Demo](https://huggingface.co/spaces/Adeelkamal/Intelligent-Business-Document-Analyzer) | LangChain, ChromaDB, Groq, Streamlit |
+| [🌦️ Budapest Weather Anomaly Dashboard](https://github.com/Adeel-lab/budapest-weather-anomaly-dashboard) | Weather anomaly detection and interactive dashboard for Budapest | Python, Pandas, Plotly |
 
 ---
 

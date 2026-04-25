@@ -44,3 +44,5 @@ currently  = "Thesis: CNN-based bearing fault diagnosis → edge deployment"
 ## 📫 Let's Connect
 
 📧 Email: adeelkamal97@gmail.com
+🔗 LinkedIn: [adeel-kamal-8231b4295](https://www.linkedin.com/in/adeel-kamal-8231b4295)
+🤗 Hugging Face: [Adeelkamal](https://huggingface.co/Adeelkamal)
